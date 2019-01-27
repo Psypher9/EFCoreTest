@@ -15,5 +15,6 @@ namespace EFCoreTest.Models
         public int Id { get; set; }
         public string ScaleColor { get; set; }
         public string EyeColor { get; set; }
+        public int Legs { get; set; }
     }
 }
